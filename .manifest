@@ -1,0 +1,12 @@
+https://github.com/OpenROV/openrov-cockpit.git
+b0dd90b079d603171d397d4e06a66bd49aaa3ce9	HEAD
+https://github.com/c9/core.git
+c88b990609ce551debd7ffc6da0a8f9ad044e0f8	HEAD
+https://github.com/openrov-dev/orov-sysdetect.git
+e964cc0c96955f4fba4b39b0d218b0c43e76060a	HEAD
+https://gitlab.com/openrov/RIOT.git
+beec41d57274d9c1ac1cade6fd9560ea2bd7efcd	refs/heads/openrov
+https://github.com/openrov/openrov-image-customization
+999bd4ba6c8a38567dbda5a74530a45264d34578	refs/heads/resin
+https://github.com/openrov-forks/resin-wifi-connect
+f6392318e3ae0a9227f96180d655e5525de93850	refs/heads/openrov
